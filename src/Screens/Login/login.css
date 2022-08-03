@@ -1,0 +1,43 @@
+section h1{
+    text-align: center;
+}
+
+.from{
+    width: 500px;
+    height: auto;
+    margin: 20px auto;
+    padding: 20px ;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    border-radius: 10px;
+
+}
+
+.formData input{
+ margin: 10px 0px;   
+width: 100%;
+}
+
+.pass{
+    display: flex;
+    align-items: center;
+}
+
+.checkbox{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.checkbox .cheked{
+    width: auto;
+    
+}
+
+
+button{
+    width: 100%;
+}
+
+
+
+
